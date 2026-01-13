@@ -53,7 +53,7 @@ Mochi Bot es una plataforma avanzada de gestión de sub-bots para WhatsApp, cons
     Abre tu navegador en `http://localhost:3000` e inicia sesión.
 
 4.  **Vincular un Sub-Bot:**
-    Ingresa el número en formato internacional (ej: `51968382008`), elige el método (QR o Código) y sigue las instrucciones en pantalla.
+    Ingresa el número en formato internacional (ej: `5199999998`), elige el método (QR o Código) y sigue las instrucciones en pantalla.
 
 ---
 
@@ -66,6 +66,7 @@ Mochi Bot es una plataforma avanzada de gestión de sub-bots para WhatsApp, cons
 
 ## 👤 Créditos
 
-Desarrollado como parte del ecosistema **Mochi Bot**. 
+Desarrollado como parte del ecosistema **Mochi Bot**.
+Creador --> **Manuel VG**
 
 > **Aviso:** Este proyecto es para fines educativos. El uso indebido para spam puede resultar en el baneo de la cuenta de WhatsApp por parte de Meta.
