@@ -1,4 +1,4 @@
-iimport yts from 'yt-search';
+import yts from 'yt-search';
 import fetch from 'node-fetch';
 
 let limit = 320; // الحد الأقصى للتحميل بالميغابايت
@@ -86,3 +86,4 @@ handler.before = async m => {
         m.react('✅');
     }
 };
+
